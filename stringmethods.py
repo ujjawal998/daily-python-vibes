@@ -1,0 +1,10 @@
+name="shivam"
+a=len(name)
+print(a)
+print(name.upper())
+print(name.lower())
+print(name.capitalize())
+print(name.replace('h','H'))
+print(name.find('v'))
+print(name.count('b'))
+print(name.title())

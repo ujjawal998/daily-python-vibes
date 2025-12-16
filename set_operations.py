@@ -10,6 +10,9 @@ print(f)
 g=s2.symmetric_difference(s2) # it will print values which are not common in both sets 
 print(g)
 h=s2.issubset(s1) 
-print(h)
-i=s1.issuperset(s2)
-print(i)
+print(h)  
+i=s1.issuperset(s2) 
+print(i)  
+j=s1.copy()
+print(j)
+  

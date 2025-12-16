@@ -1,0 +1,10 @@
+def sum(a,b):
+    print("i am summing ")
+    c=a+b
+    global z
+    z=5
+    return c
+z=9
+print(sum(4,3))
+print(z)
+
